@@ -1,14 +1,3 @@
-##
-## Makefile for  in /home/lelabo_m/rendu/cpp_abstractvm
-## 
-## Made by Marc Le Labourier
-## Login   <lelabo_m@epitech.net>
-## 
-## Started on  Sat Feb 22 18:12:31 2014 Marc Le Labourier
-## Last update Sun Mar  2 20:21:06 2014 Marc Le Labourier
-##
-
-
 NAME    =       avm
 
 REP_SRC =       src/
